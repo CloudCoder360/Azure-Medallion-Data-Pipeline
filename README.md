@@ -18,7 +18,7 @@ This architecture is commonly used in modern data engineering solutions, making 
 ---
 
 ## 🏗 Architecture
-![Architecture Diagram](<img width="1366" height="768" alt="20250815_1809_image" src="https://github.com/user-attachments/assets/6c5d22b9-e86d-420e-a92d-909fb6a12dcf" />
+![Architecture Diagram](arc.png
 )
 
 **Workflow:**
