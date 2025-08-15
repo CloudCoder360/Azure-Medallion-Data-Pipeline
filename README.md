@@ -18,7 +18,7 @@ This architecture is commonly used in modern data engineering solutions, making 
 ---
 
 ## 🏗 Architecture
-![Architecture Diagram](https://github.com/CloudCoder360/Azure-Medallion-Data-Pipeline/blob/bad3a89686c52ee6775294332cfaae7cbed8ce8e/Data/blue_print.png)
+![Architecture Diagram](https://github.com/CloudCoder360/Azure-Medallion-Data-Pipeline/blob/3f68b215bd64ba244c145b6a1e3e5115b8acecea/Data/blue_print%20(1).png)
 
 **Workflow:**
 1. **Data Source** – HTTP API or external dataset
